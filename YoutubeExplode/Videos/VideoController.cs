@@ -67,8 +67,8 @@ internal class VideoController
                     "videoId": "{{videoId}}",
                     "context": {
                         "client": {
-                            "clientName": "ANDROID_TESTSUITE",
-                            "clientVersion": "1.9",
+                            "clientName": "ANDROID",
+                            "clientVersion": "17.31.35",
                             "androidSdkVersion": 30,
                             "hl": "en",
                             "gl": "US",
